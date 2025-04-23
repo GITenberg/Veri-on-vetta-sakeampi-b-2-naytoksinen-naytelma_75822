@@ -1,0 +1,29 @@
+_repo: Veri-on-vetta-sakeampi-b-2-naytoksinen-naytelma_75822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    alias: Wuori, M.
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75822'
+language: fi
+pgterms:marc905: 20210429053828wuori
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Veri on vettä sakeampi : $b 2-näytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/75822
