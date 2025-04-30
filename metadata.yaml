@@ -1,5 +1,8 @@
 _repo: Veri-on-vetta-sakeampi-b-2-naytoksinen-naytelma_75822
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wuori, Martti
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75822#Veri-on-vetta-sakeampi-b-2-naytoksinen-naytelma
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
